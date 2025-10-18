@@ -41,3 +41,6 @@ Las plantillas son lineas o bloques de código prehechos que se suelen repetir m
 
 ![templates](capturas/07_templates.png)
 
+
+## ¿Cuál es más útil?
+Todas me parecen muy útiles, pero las que me parecen más útiles son la opción de **auto close** de Typing y las plantillas de código. Son opciones que hacen mucho más fácil el trabajo.  
