@@ -1,2 +1,15 @@
 # PR-Eclipse-03-PreferenciasEditor
-La practica 3 de la unidad 2 de entorno
+
+## Opciones generales
+
+## Save actions
+
+## Content assist
+
+## Syntax coloring
+
+## Mark ocurrences
+
+## Typing
+
+## Templates
